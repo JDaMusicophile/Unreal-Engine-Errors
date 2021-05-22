@@ -50,7 +50,8 @@ After deleting the neccessary, please make sure to regenerate your vs files!
      Meaning that the Actor will not be shown because it is being scaled to zero on one of its axis. 
      To solve this problem, change any DrawScale's that are zero to be non-zero by selecting the Actor and changing its drawscale at the bottom of the main UnrealEd window.
 
-
+<br />
+<br />
 
 # Happy Coding!! :love_you_gesture:
 
