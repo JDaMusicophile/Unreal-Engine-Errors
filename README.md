@@ -6,9 +6,9 @@ Hey Guys! Thought of providing some help to everyday Unreal Engine Developers, w
 
 The listed are folders that can be deleted safetly from the UE4 game files:
 
-Saved
+.VS
 
-Config
+Saved
 
 Source
 
@@ -16,7 +16,7 @@ Intermediate/ProjectFiles
 
 Binaries
 
-After deleting the neccessary, please make sure to regenerate your vs files! 
+After deleting the neccessary, please make sure to regenerate your vs files and build via ur IDE! 
 
 # Errors
 
