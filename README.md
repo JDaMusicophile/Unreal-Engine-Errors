@@ -10,8 +10,6 @@ The listed are folders that can be deleted safetly from the UE4 game files:
 
 Saved
 
-Source
-
 Intermediate/ProjectFiles
 
 Binaries
